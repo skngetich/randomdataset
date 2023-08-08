@@ -16,3 +16,5 @@ This repo is for dataset that I use in my data analyis.
 | nlp-dataset.zip                           | This dataset contains 1.5 million tweets,800,000 positive tweets and 800,000 negative tweets store                                                                                                                                                                                                                                                                                                                                  |                                                                                       |
 |Kenyan_hansard_mzalendo| Kenyan Parliament Hansard | [Mzalendo](https://info.mzalendo.com/hansard/)
 |[KBV.csv](./KBL.csv)| Kenya National Basketball League | |
+|[BAL](./bal-dataset-games-2021-2023.csv)| Basketball Africa League| [flashscore](https://www.flashcore.com)|
+|[BAL](./bal-dataset-player-2021-2023.csv)| Basketball Africa League| [flashscore](https://www.flashcore.com)|
